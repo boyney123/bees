@@ -2572,7 +2572,7 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important; } }
 body {
-  @import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+  @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
   font-family: Indie Flower, HelveticaNeue, 'Helvetica Neue', Helvetica, 'Lucida Grande', Arial, sans-serif;
   background: url("../assets/bg2.png") 0 bottom repeat-x;
   padding-top: 40px;
